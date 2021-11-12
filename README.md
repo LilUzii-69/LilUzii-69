@@ -48,16 +48,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     34 mins             ████████████████████░░░░░   80.8% 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.2%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LilUzii-69               42 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  42 mins             █████████████████████████   100.0%
 
 ```
 
@@ -73,5 +74,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 11/11/2021
+ Last Updated on 12/11/2021
 <!--END_SECTION:waka-->
