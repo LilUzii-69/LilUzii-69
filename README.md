@@ -9,13 +9,13 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2021
+> 🏆 4 Contributions in the Year 2021
  > 
-> 📦 32.6 kB Used in GitHub's Storage 
+> 📦 61.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -72,14 +72,14 @@ Windows                  8 hrs 28 mins       ███████████�
 **I Mostly Code in Vue** 
 
 ```text
-Vue                      3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Vue                      3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
 
 
- Last Updated on 17/11/2021
+ Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
