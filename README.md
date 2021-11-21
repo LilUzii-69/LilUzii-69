@@ -9,13 +9,13 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2021
+> 🏆 5 Contributions in the Year 2021
  > 
-> 📦 61.4 kB Used in GitHub's Storage 
+> 📦 63.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -81,5 +81,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 20/11/2021
+ Last Updated on 21/11/2021
 <!--END_SECTION:waka-->
