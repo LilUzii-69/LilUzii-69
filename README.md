@@ -11,7 +11,7 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 63.5 kB Used in GitHub's Storage 
+> 📦 63.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +76,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 07/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
