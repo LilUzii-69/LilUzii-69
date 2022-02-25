@@ -5,7 +5,7 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 [![Tanatat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilUzii-69&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,16 +48,20 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      14 mins             █████████████████░░░░░░░░   68.14% 
+HTML                     6 mins              ███████░░░░░░░░░░░░░░░░░░   29.98% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+Apache Config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.0%
 
 ```
 
@@ -73,5 +77,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 21/02/2022 20:07:54 UTC
+ Last Updated on 25/02/2022 20:08:21 UTC
 <!--END_SECTION:waka-->
