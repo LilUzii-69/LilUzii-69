@@ -5,7 +5,7 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 [![Tanatat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilUzii-69&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,5 +74,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2022 20:09:24 UTC
+ Last Updated on 06/05/2022 20:09:51 UTC
 <!--END_SECTION:waka-->
