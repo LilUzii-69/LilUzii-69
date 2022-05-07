@@ -5,17 +5,19 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 [![Tanatat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilUzii-69&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 32 Contributions in the Year 2022
+> 🏆 33 Contributions in the Year 2022
  > 
 > 📦 744.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -74,5 +76,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 20:09:51 UTC
+ Last Updated on 07/05/2022 20:09:05 UTC
 <!--END_SECTION:waka-->
