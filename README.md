@@ -11,15 +11,15 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 
 **🐱 My GitHub Data** 
 
-> 🏆 33 Contributions in the Year 2022
+> 🏆 32 Contributions in the Year 2022
  > 
-> 📦 744.8 kB Used in GitHub's Storage 
+> 📦 745.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 17 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -66,15 +66,15 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
-Vue                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+Vue                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
 
 
- Last Updated on 07/05/2022 20:09:05 UTC
+ Last Updated on 08/05/2022 20:08:25 UTC
 <!--END_SECTION:waka-->
