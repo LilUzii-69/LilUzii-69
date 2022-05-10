@@ -7,7 +7,7 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,5 +76,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2022 20:09:21 UTC
+ Last Updated on 10/05/2022 20:10:12 UTC
 <!--END_SECTION:waka-->
