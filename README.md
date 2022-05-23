@@ -13,7 +13,7 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 
 > 🏆 32 Contributions in the Year 2022
  > 
-> 📦 758.4 kB Used in GitHub's Storage 
+> 📦 758.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +76,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2022 20:09:11 UTC
+ Last Updated on 23/05/2022 20:09:58 UTC
 <!--END_SECTION:waka-->
