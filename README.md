@@ -21,6 +21,48 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
  > 
 > 🔑 8 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
+🌆 Daytime    30 commits     ████████████████░░░░░░░░░   65.22% 
+🌃 Evening    9 commits      █████░░░░░░░░░░░░░░░░░░░░   19.57% 
+🌙 Night      4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
+Tuesday      29 commits     ███████████████░░░░░░░░░░   63.04% 
+Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       11 commits     ██████░░░░░░░░░░░░░░░░░░░   23.91% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -34,5 +76,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 20:11:45 UTC
+ Last Updated on 15/09/2022 20:10:05 UTC
 <!--END_SECTION:waka-->
