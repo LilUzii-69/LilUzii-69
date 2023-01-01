@@ -11,7 +11,7 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 
 **🐱 My GitHub Data** 
 
-> 🏆 32 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 758.8 kB Used in GitHub's Storage 
  > 
@@ -76,5 +76,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 20:07:28 UTC
+ Last Updated on 01/01/2023 20:07:48 UTC
 <!--END_SECTION:waka-->
