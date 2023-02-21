@@ -69,12 +69,12 @@ No Activity Tracked This Week
 JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
 HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
 Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 ```
 
 
 
- Last Updated on 20/02/2023 20:07:23 UTC
+ Last Updated on 21/02/2023 20:07:47 UTC
 <!--END_SECTION:waka-->
