@@ -19,7 +19,7 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -73,5 +73,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2024 20:07:57 UTC
+ Last Updated on 07/02/2024 20:06:59 UTC
 <!--END_SECTION:waka-->
