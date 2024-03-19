@@ -11,7 +11,7 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 
 **🐱 My GitHub Data** 
 
-> 📦 780.3 kB Used in GitHub's Storage 
+> 📦 780.4 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -73,5 +73,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2024 20:07:22 UTC
+ Last Updated on 19/03/2024 20:08:02 UTC
 <!--END_SECTION:waka-->
