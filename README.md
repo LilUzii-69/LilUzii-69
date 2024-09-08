@@ -5,8 +5,6 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
 [![Tanatat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilUzii-69&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -21,45 +19,6 @@ Hi my name is Tanatat Tasanakanpaisan. I'm a students. Undergrads of computer sc
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-🌆 Daytime                82 commits          █████████████░░░░░░░░░░░░   51.57 % 
-🌃 Evening                36 commits          ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-🌙 Night                  34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Tuesday                  34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Wednesday                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Thursday                 53 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Friday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -73,5 +32,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2024 20:08:54 UTC
+ Last Updated on 08/09/2024 20:08:56 UTC
 <!--END_SECTION:waka-->
